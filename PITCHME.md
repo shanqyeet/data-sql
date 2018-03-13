@@ -56,11 +56,15 @@ yeap, they are just a bunch of tables
 > It's like walking into a library, you can borrow as many books as you like, but each of these book can also have many readers throughout its lifespan.
 +++
 
-### Important Components of a Database
+### Important Components of a Database - 1 
 
 Primary-key: a key and a unique identifier in a relational database that makes each record unique!
 
 > It's like your genetic profile, it marks your unique identity and your existence
+
++++
+
+### Important Components of a Database - 2 
 
 Foreign-key: a foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table or the same table.
 
