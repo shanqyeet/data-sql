@@ -87,9 +87,11 @@ Foreign-key: a foreign key is a field (or collection of fields) in one table tha
 
 ### Basically some popular RDMS are....
 
-1. SQLite - A very powerful, embedded relational database management system
-2. MySQL - The most popular and commonly used RDBMS
-3. The most advanced, SQL-compliant and open-source objective-RDBMS
+1. SQLite 
+2. MySQL 
+3. PostgresQL 
+
+To understand the differences, check [this](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems) out. 
 
 *there is also a NoSQL.. but #DYOR*
 
