@@ -8,13 +8,13 @@ An Organized collection of data
 
 **Analogy**
 
->> It’s like your filing cabinet, not your junk drawer. The data is organized into folders, rather than just thrown in at random
+> It’s like your filing cabinet, not your junk drawer. The data is organized into folders, rather than just thrown in at random
 
 +++
 
 ### How databases look like??
 
-![visual of database](database-lool.png)
+![visual of database](database-look.png)
 
 yeap, they are just a bunch of tables
 
@@ -47,7 +47,7 @@ yeap, they are just a bunch of tables
 
 ---
 
-#SQLite
+# SQLite
 
 
 
