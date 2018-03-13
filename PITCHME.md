@@ -47,11 +47,15 @@ yeap, they are just a bunch of tables
 
 ### One-to-Many
 
+![one to many](onetomany.png)
+
 > When you shop on Amazon, you can have many orders but each order belongs only to you.
 
 +++
 
 ### Many-to-Many
+
+![manytomany](manytomany.png)
 
 > It's like walking into a library, you can borrow as many books as you like, but each of these book can also have many readers throughout its lifespan.
 +++
