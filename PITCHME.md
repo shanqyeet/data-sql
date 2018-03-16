@@ -75,7 +75,34 @@ Foreign-key: a foreign key is a field (or collection of fields) in one table tha
 > It's like a wedding ring, you are a unique existence but that ring on your finger tells people that you belong to someone else.
 
 ---
+# Database Normalization 
 
++++
+
+### Basically...
+
+* Eliminate redundancy
+* Increase consistency
+* Allow Easier object-to-data mapping
+* Eliminate need for restructuring database when data is added
+
++++
+
+![Raw](N0.png)
+
++++
+
+![Normal Form 1](N1.png)
+
++++
+
+![Normal Form 2](N2.png)
+
++++
+
+![Normal Form 3](N3.png)
+
+---
 # SQLite
 
 * one kind of Relational Database Management System (RDMS)
