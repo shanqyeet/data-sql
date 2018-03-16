@@ -18,7 +18,7 @@ An Organized collection of data
 
 ### How databases look like??
 
-![visual of database](database-look.png)
+![visual of database](database-look.jpg)
 
 yeap, they are just a bunch of tables
 
@@ -55,7 +55,7 @@ yeap, they are just a bunch of tables
 
 ### Many-to-Many
 
-![many to many](manytomany.png)
+![many to many](manytomany.jpg)
 
 > It's like walking into a library, you can borrow as many books as you like, but each of these book can also have many readers throughout its lifespan.
 +++
@@ -88,19 +88,19 @@ Foreign-key: a foreign key is a field (or collection of fields) in one table tha
 
 +++
 
-![Raw](N0.png)
+![Raw](N0.jpg)
 
 +++
 
-![Normal Form 1](N1.png)
+![Normal Form 1](N1.jpg)
 
 +++
 
-![Normal Form 2](N2.png)
+![Normal Form 2](N2.jpg)
 
 +++
 
-![Normal Form 3](N3.png)
+![Normal Form 3](N3.jpg)
 
 ---
 # SQLite
